@@ -1,5 +1,14 @@
-### Hi there 👋
+### About me 👋
 
+🎓 IT & AI Engineering - MEng at Polytechnique Montréal<br />
+🎓 Electrical Engineering - BEng at École de Technologie Supérieure <br />
+
+
+## Projects
+
+| Tag | Name | Description
+|:---|:---|:---
+|ML|[🔥 Fire smoke detection](https://github.com/MorganPeju/inf8225_project) | Python - Forest fire smoke detection with YOLOv5 model (Computer Vision model)
 <!--
 **khchu93/khchu93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
