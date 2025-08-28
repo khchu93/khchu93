@@ -1,7 +1,7 @@
 ### About me 👋
 
-🎓 IT & AI Engineering - MEng at Polytechnique Montréal<br />
-🎓 Electrical Engineering - BEng at École de Technologie Supérieure <br />
+🎓 IT & AI Engineering - M.Eng at Polytechnique Montréal<br />
+🎓 Electrical Engineering - B.Eng at École de Technologie Supérieure <br />
 
 
 ## Projects
