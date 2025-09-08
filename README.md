@@ -13,7 +13,7 @@
 ## Learning Journey
 
 ### Computer Vision
-- AlexNet (TBD)
+- [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md)
 - VGG (TBD)
 - ResNet (TBD)
 - GoogleNet (TBD)
