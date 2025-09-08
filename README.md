@@ -9,17 +9,18 @@
 | Tag | Name | Description
 |:---|:---|:---
 |ML|[🔥 Fire smoke detection](https://github.com/MorganPeju/inf8225_project) | Python - Forest fire smoke detection with YOLOv5 model (Computer Vision model)
-<!--
-**khchu93/khchu93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Learning Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Computer Vision
+- AlexNet (TBD)
+- VGG (TBD)
+- ResNet (TBD)
+- GoogleNet (TBD)
+- R-CNN (TBD)
+- Fast R-CNN (TBD)
+- Faster R-CNN (TBD)
+- Mask R-CNN (TBD)
+- YOLOv8 (TBD)
+- Vision Transformer (TBD)
+- CLIP (TBD)
