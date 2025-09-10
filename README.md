@@ -13,7 +13,7 @@
 ## Learning Journey
 
 ### Computer Vision
-- [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md)
+- [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md) (keyword: educational only, ReLU, Dropout)
 - VGG (TBD)
 - ResNet (TBD)
 - GoogleNet (TBD)
