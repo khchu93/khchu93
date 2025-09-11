@@ -12,7 +12,7 @@
 
 ## Learning Journey
 
-### Computer Vision
+### [Computer Vision](https://github.com/khchu93/ComputerVision/tree/main)
 - [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md), 2012 (keyword: educational only, ReLU, Dropout)
 - [VGG](https://github.com/khchu93/ComputerVision/blob/main/notes/VGG.md), 2014 (keyword: educational only, very deep layers, very small convolutional filter)
 - ResNet (TBD)
