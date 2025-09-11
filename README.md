@@ -14,7 +14,7 @@
 
 ### Computer Vision
 - [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md) (keyword: educational only, ReLU, Dropout)
-- VGG (TBD)
+- [VGG](https://github.com/khchu93/ComputerVision/blob/main/notes/VGG.md) (keyword: educational only, very deep layers, very small convolutional filter)
 - ResNet (TBD)
 - GoogleNet (TBD)
 - R-CNN (TBD)
