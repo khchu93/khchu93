@@ -13,9 +13,9 @@
 ## Learning Journey
 
 ### [Computer Vision](https://github.com/khchu93/ComputerVision/tree/main)
-- [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md), 2012 (keyword: educational only, ReLU, Dropout)
-- [VGG](https://github.com/khchu93/ComputerVision/blob/main/notes/VGG.md), 2014 (keyword: educational only, very deep layers, very small convolutional filter)
-- [ResNet](https://github.com/khchu93/ComputerVision/blob/main/notes/ResNet.md), 2015 (keyword: backbone for many tasks, residual learning, skip connection)
+- [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md), 2012 (keyword: ReLU, Dropout)
+- [VGG](https://github.com/khchu93/ComputerVision/blob/main/notes/VGG.md), 2014 (keyword: very deep layers, very small convolutional filter)
+- [ResNet](https://github.com/khchu93/ComputerVision/blob/main/notes/ResNet.md), 2015 (keyword: residual learning, skip connection, GAP, bottleneck)
 - GoogleNet (TBD)
 - R-CNN (TBD)
 - Fast R-CNN (TBD)
