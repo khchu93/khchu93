@@ -16,7 +16,7 @@
 - [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md), 2012 (keyword: ReLU, Dropout)
 - [VGG](https://github.com/khchu93/ComputerVision/blob/main/notes/VGG.md), 2014 (keyword: very deep layers, very small convolutional filter)
 - [ResNet](https://github.com/khchu93/ComputerVision/blob/main/notes/ResNet.md), 2015 (keyword: residual learning, skip connection, GAP, bottleneck)
-- GoogleNet (TBD)
+- [GoogleNet](https://github.com/khchu93/ComputerVision/blob/main/notes/GoogLeNet.md)
 - R-CNN (TBD)
 - Fast R-CNN (TBD)
 - Faster R-CNN (TBD)
