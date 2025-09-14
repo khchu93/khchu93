@@ -14,9 +14,9 @@
 
 ### [Computer Vision](https://github.com/khchu93/ComputerVision/tree/main)
 - [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md), 2012 (keyword: ReLU, Dropout)
-- [VGG](https://github.com/khchu93/ComputerVision/blob/main/notes/VGG.md), 2014 (keyword: very deep layers, very small convolutional filter)
-- [ResNet](https://github.com/khchu93/ComputerVision/blob/main/notes/ResNet.md), 2015 (keyword: residual learning, skip connection, GAP, bottleneck)
-- [GoogleNet](https://github.com/khchu93/ComputerVision/blob/main/notes/GoogLeNet.md)
+- [VGG](https://github.com/khchu93/ComputerVision/blob/main/notes/VGG.md), 2014 (keyword: very deep layers, very small convolutional filter 3 x 3)
+- [ResNet](https://github.com/khchu93/ComputerVision/blob/main/notes/ResNet.md), 2015 (keyword: Residual Learning, Skip connection, GAP, bottleneck)
+- [GoogleNet](https://github.com/khchu93/ComputerVision/blob/main/notes/GoogLeNet.md) (keyword: Inception Module, GAP, Auxiliary Classifier, Multi-scales, 1 x 1 conv.)
 - R-CNN (TBD)
 - Fast R-CNN (TBD)
 - Faster R-CNN (TBD)
