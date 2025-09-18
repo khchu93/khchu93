@@ -22,11 +22,14 @@
 - Vision Transformer (TBD)
 - ConvNeXt
 
-#### Object Detection / Segmentation
+#### Object Detection
 - [R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/R-CNN.md), 2014 (keyword: region proposal, selective search, Bounding box regression, NMS)
 - [Fast R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Fast%20R-CNN.md), 2015 (keyword: single stage, CNN only once, shared feature map, ROI pooling layer, 2 head FC layer output, NMS, region proposal)
 - Faster R-CNN (TBD)
 - Mask R-CNN (TBD)
+
+#### Semantic Segmentation
+- U-Net (TBD)
 
 #### Real-time Detection
 - YOLOv8 (TBD)
