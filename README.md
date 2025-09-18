@@ -18,7 +18,7 @@
 - [ResNet](https://github.com/khchu93/ComputerVision/blob/main/notes/ResNet.md), 2015 (keyword: Classification, Residual Learning, Skip connection, GAP, bottleneck)
 - [GoogleNet](https://github.com/khchu93/ComputerVision/blob/main/notes/GoogLeNet.md), 2015 (keyword: Classification, Inception Module, GAP, Auxiliary Classifier, Multi-scales, 1 x 1 conv.)
 - [R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/R-CNN.md), 2014 (keyword: Object Detection, region proposal, selective search, Bounding box regression, NMS)
-- [Fast R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Fast%20R-CNN.md), 2015 (keyword: Object Detection, single stage, CNN only once, shared feature map, ROI pooling layer, 2 head FC layer output)
+- [Fast R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Fast%20R-CNN.md), 2015 (keyword: Object Detection, single stage, CNN only once, shared feature map, ROI pooling layer, 2 head FC layer output, NMS)
 - Faster R-CNN (TBD)
 - Mask R-CNN (TBD)
 - YOLOv8 (TBD)
