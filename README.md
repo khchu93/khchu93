@@ -21,6 +21,8 @@
 - [Fast R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Fast%20R-CNN.md), 2015 (keyword: Object Detection, single stage, CNN only once, shared feature map, ROI pooling layer, 2 head FC layer output, NMS)
 - Faster R-CNN (TBD)
 - Mask R-CNN (TBD)
+- ConvNet
 - YOLOv8 (TBD)
 - Vision Transformer (TBD)
 - CLIP (TBD)
+- SAM
