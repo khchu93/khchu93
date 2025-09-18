@@ -8,7 +8,7 @@
 
 | Tag | Name | Description
 |:---|:---|:---
-|ML|[🔥 Fire smoke detection](https://github.com/MorganPeju/inf8225_project) | Python - Forest fire smoke detection with YOLOv5 model (Computer Vision model)
+|ML|[🔥 Fire smoke detection](https://github.com/MorganPeju/inf8225_project) | Python - Forest fire smoke detection with YOLOv5 model
 
 ## Learning Journey
 
