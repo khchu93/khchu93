@@ -43,3 +43,28 @@
 - CLIP (TBD)
 - SAM (TBD)
 
+### LLMs
+
+#### Early / Deep NLP Research
+- Word2Vec
+- Seq2Seq
+
+#### Transformer Architecture (Foundation)
+- Transformer
+
+#### Encoder-Only Models (Understanding / Pretraining)
+- BERT
+- T5
+
+#### Decoder-Only Models (Generation)
+- GPT
+- GPT-2
+
+#### Scaling & Alignment / Instruction-Following
+- GPT-3
+- InstructGPT
+- GPT-4
+
+#### Democratized / Frontier Models
+- LLaMA
+- DeepSeek
