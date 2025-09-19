@@ -19,8 +19,6 @@
 - [VGG](https://github.com/khchu93/ComputerVision/blob/main/notes/VGG.md), 2014 (keyword: very deep layers, very small convolutional filter 3 x 3)
 - [ResNet](https://github.com/khchu93/ComputerVision/blob/main/notes/ResNet.md), 2015 (keyword: Residual Learning, Skip connection, GAP, bottleneck)
 - [GoogleNet](https://github.com/khchu93/ComputerVision/blob/main/notes/GoogLeNet.md), 2015 (keyword: Inception Module, GAP, Auxiliary Classifier, Multi-scales, 1 x 1 conv.)
-- Vision Transformer (TBD)
-- ConvNeXt (TBD)
 
 #### Object Detection
 - [R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/R-CNN.md), 2014 (keyword: region proposal, selective search, Bounding box regression, NMS)
@@ -32,8 +30,16 @@
 - U-Net (TBD)
 
 #### Real-time Detection
+- YOLOv1 (TBD)
+- YOLOv5 (TBD)
 - YOLOv8 (TBD)
+
+#### Multi-purpose
+- Vision Transformer (TBD)
+- ConvNeXt (TBD)
+- DAMamba (TBD)
 
 #### Multimodal
 - CLIP (TBD)
 - SAM (TBD)
+
