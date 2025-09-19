@@ -45,26 +45,26 @@
 
 ### LLMs
 
-#### Early / Deep NLP Research
-- Word2Vec
-- Seq2Seq
+#### Representation / Embeddings
+- Word2Vec (TBD)
+- Seq2Seq (TBD)
 
-#### Transformer Architecture (Foundation)
-- Transformer
+#### Foundational Architecture
+- Transformer (TBD)
 
-#### Encoder-Only Models (Understanding / Pretraining)
-- BERT
-- T5
+#### Understanding / NLP Pretraining
+- BERT (TBD)
+- T5 (TBD)
 
-#### Decoder-Only Models (Generation)
-- GPT
-- GPT-2
+#### Generation / Autoregressive Models
+- GPT (TBD)
+- GPT-2 (TBD)
 
-#### Scaling & Alignment / Instruction-Following
-- GPT-3
-- InstructGPT
-- GPT-4
+#### Instruction-Following / Alignment
+- GPT-3 (TBD)
+- InstructGPT (TBD)
+- GPT-4 (TBD)
 
-#### Democratized / Frontier Models
-- LLaMA
-- DeepSeek
+#### Democratized / Frontier / Industrial-Scale Models
+- LLaMA (TBD)
+- DeepSeek (TBD)
