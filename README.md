@@ -20,7 +20,7 @@
 - [ResNet](https://github.com/khchu93/ComputerVision/blob/main/notes/ResNet.md), 2015 (keyword: Residual Learning, Skip connection, GAP, bottleneck)
 - [GoogleNet](https://github.com/khchu93/ComputerVision/blob/main/notes/GoogLeNet.md), 2015 (keyword: Inception Module, GAP, Auxiliary Classifier, Multi-scales, 1 x 1 conv.)
 - Vision Transformer (TBD)
-- ConvNeXt
+- ConvNeXt (TBD)
 
 #### Object Detection
 - [R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/R-CNN.md), 2014 (keyword: region proposal, selective search, Bounding box regression, NMS)
