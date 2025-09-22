@@ -36,6 +36,8 @@
 
 #### Multi-purpose
 - DAMamba, 2024 (TBD)
+- Vision Mamba, 2024 (TBD)
+- Mamba, 2023 (TBD)
 - ConvNeXt, 2022 (TBD)
 - ViT(Vision Transformer), 2020 (TBD)
 
