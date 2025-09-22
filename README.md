@@ -25,7 +25,7 @@
 - [Faster R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Faster%20R-CNN.md), 2015 (keyword: end-to-end, RPN, shared feature map, Fast R-CNN detector module)
 - [Fast R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Fast%20R-CNN.md), 2015 (keyword: single stage, CNN only once, shared feature map, ROI pooling layer, 2 head FC layer output, NMS, region proposal)
 - [R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/R-CNN.md), 2014 (keyword: region proposal, selective search, Bounding box regression, NMS)
-
+<!--
 #### Semantic Segmentation
 - U-Net, 2015 (TBD)
 
@@ -70,3 +70,4 @@
 #### Democratized / Frontier / Industrial-Scale Models
 - DeepSeek, 2025 (TBD)
 - LLaMA,2023 (TBD)
+-->
