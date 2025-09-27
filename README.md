@@ -52,7 +52,7 @@
 - Word2Vec, 2013 (TBD)
 
 #### Foundational Architecture
-- Transformer, 2017 (TBD)
+- [Transformer](https://github.com/khchu93/LLMs/blob/main/notes/Transformer.md), 2017 (keyword: multi-head, self-attention, positional encoding, autoregression)
 
 #### Understanding / NLP Pretraining
 - T5, 2019 (TBD)
