@@ -44,7 +44,7 @@
 #### Multimodal
 - SAM(Segment Anything Model), 2023 (TBD)
 - CLIP, 2021 (TBD)
-
+-->
 ### LLMs
 
 #### Representation / Embeddings
@@ -53,7 +53,7 @@
 
 #### Foundational Architecture
 - [Transformer](https://github.com/khchu93/LLMs/blob/main/notes/Transformer.md), 2017 (keyword: multi-head, self-attention, positional encoding, autoregression)
-
+<!--
 #### Understanding / NLP Pretraining
 - T5, 2019 (TBD)
 - BERT, 2018 (TBD)
