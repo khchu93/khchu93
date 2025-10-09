@@ -12,7 +12,7 @@
 
 ## Learning Journey
 
-### [Computer Vision](https://github.com/khchu93/ComputerVision/tree/main)
+### Computer Vision
 
 #### Object Detection
 - [Faster R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Faster%20R-CNN.md), 2015 (keyword: end-to-end, RPN, shared feature map, Fast R-CNN detector module)
