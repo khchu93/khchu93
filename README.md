@@ -35,7 +35,7 @@
 
 #### Semantic Segmentation
 - U-Net, 2015 (TBD)
-<!--
+
 #### Real-time Detection
 - YOLOv8, 2023 (TBD)
 - YOLOv5, 2020 (TBD)
@@ -49,7 +49,7 @@
 #### Foundation Models
 - SAM(Segment Anything Model), 2023 (TBD)
 - CLIP, 2021 (TBD)
--->
+
 ### LLMs
 
 #### Representation / Embeddings
@@ -58,21 +58,22 @@
 
 #### Foundational Architecture
 - [Transformer](https://github.com/khchu93/LLMs/blob/main/notes/Transformer.md), 2017 (keyword: multi-head, self-attention, positional encoding, autoregression)
-<!--
-#### Understanding / NLP Pretraining
-- T5, 2019 (TBD)
-- BERT, 2018 (TBD)
+  
+#### Pre-training Approaches
+- Understanding (Encoder/Bidirectional)
+  - BERT, 2018 (TBD)
+- Unified (Encoder-Decoder)
+  - T5, 2019 (TBD)
+- Generation (Decoder-Only/Autoregressive)
+  - GPT-3, 2020 (TBD)
+  - GPT-2, 2019 (TBD)
+  - GPT, 2018 (TBD)
 
-#### Generation / Autoregressive Models
-- GPT-2, 2019 (TBD)
-- GPT, 2018 (TBD)
-
-#### Instruction-Following / Alignment
+#### Human Alignment
 - GPT-4, 2023 (TBD)
 - InstructGPT, 2022 (TBD)
-- GPT-3, 2020 (TBD)
 
-#### Democratized / Frontier / Industrial-Scale Models
+#### Open Ecosystem
 - DeepSeek, 2025 (TBD)
 - LLaMA,2023 (TBD)
--->
+
