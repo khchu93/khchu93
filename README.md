@@ -14,17 +14,17 @@
 
 ### [Computer Vision](https://github.com/khchu93/ComputerVision/tree/main)
 
-#### Image Classification
-- [GoogleNet](https://github.com/khchu93/ComputerVision/blob/main/notes/GoogLeNet.md), 2015 (keyword: Inception Module, GAP, Auxiliary Classifier, Multi-scales, 1 x 1 conv.)
-- [ResNet](https://github.com/khchu93/ComputerVision/blob/main/notes/ResNet.md), 2015 (keyword: Residual Learning, Skip connection, GAP, bottleneck)
-- [VGG](https://github.com/khchu93/ComputerVision/blob/main/notes/VGG.md), 2014 (keyword: very deep layers, very small convolutional filter 3 x 3)
-- [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md), 2012 (keyword: ReLU, Dropout)
-
 #### Object Detection
 - [Mask R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/MaskedR-CNN.md), 2017 (keyword: RoIAlign, Mask Head, FPN, RPN, NMS)
 - [Faster R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Faster%20R-CNN.md), 2015 (keyword: end-to-end, RPN, shared feature map, Fast R-CNN detector module)
 - [Fast R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Fast%20R-CNN.md), 2015 (keyword: single stage, CNN only once, shared feature map, ROI pooling layer, 2 head FC layer output, NMS, region proposal)
 - [R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/R-CNN.md) [(implementation)](https://github.com/khchu93/ComputerVision/blob/main/models/rcnn_implementation.ipynb), 2014 (keyword: region proposal, selective search, Bounding box regression, NMS)
+
+#### Image Classification
+- [GoogleNet](https://github.com/khchu93/ComputerVision/blob/main/notes/GoogLeNet.md), 2015 (keyword: Inception Module, GAP, Auxiliary Classifier, Multi-scales, 1 x 1 conv.)
+- [ResNet](https://github.com/khchu93/ComputerVision/blob/main/notes/ResNet.md), 2015 (keyword: Residual Learning, Skip connection, GAP, bottleneck)
+- [VGG](https://github.com/khchu93/ComputerVision/blob/main/notes/VGG.md), 2014 (keyword: very deep layers, very small convolutional filter 3 x 3)
+- [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md), 2012 (keyword: ReLU, Dropout)
 
 #### Semantic Segmentation
 - U-Net, 2015 (TBD)
