@@ -37,9 +37,9 @@
 - U-Net, 2015 (TBD)
 
 #### Real-time Detection
-- YOLOv8, 2023 (TBD)
-- YOLOv5, 2020 (TBD)
-- YOLOv1, 2016 (TBD)
+- [YOLOv8](https://github.com/khchu93/ComputerVision/blob/main/notes/YOLOv8.md), 2023 (keyword: Anchor-Free Detection Head, Decoupled Head, C2f Backbone Module, Unified Multi-Task Framework, Varifocal + CIoU Loss)
+- [YOLOv5](https://github.com/khchu93/ComputerVision/blob/main/notes/YOLOv5.md), 2020 (keyword: CSPDarknet Backbone, FPN + PAN Neck, Anchor-Based Multi-Scale Detection, Mosaic & MixUp Augmentation)
+- [YOLOv1](https://github.com/khchu93/ComputerVision/blob/main/notes/YOLOv1.md), 2016 (keyword: Unified Detection / Spatial Regression, Real-Time Detection, S×S Grid)
 
 #### State Space Models
 - DAMamba, 2024 (TBD)
