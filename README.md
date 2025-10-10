@@ -73,7 +73,7 @@
 - InstructGPT, 2022 (TBD)
 
 #### State Space Models (SSM)
-- Mamba, 2023 (TBD)
+- [Mamba](https://github.com/khchu93/ComputerVision/blob/main/notes/Mamba.md), 2023 (TBD)
 
 #### Open Ecosystem
 - DeepSeek, 2025 (TBD)
