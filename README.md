@@ -26,7 +26,7 @@
   - [VGG](https://github.com/khchu93/ComputerVision/blob/main/notes/VGG.md), 2014 (keyword: very deep layers, very small convolutional filter 3 x 3)
   - [AlexNet](https://github.com/khchu93/ComputerVision/blob/main/notes/AlexNet.md), 2012 (keyword: ReLU, Dropout)
 - Transformer Era
-  - ViT(Vision Transformer), 2020 (TBD)
+  - Vision Transformer (ViT), 2020 (TBD)
 - Hybrid/Modern CNNs
   - ConvNeXt, 2022 (TBD)
 
@@ -41,10 +41,9 @@
 - [YOLOv5](https://github.com/khchu93/ComputerVision/blob/main/notes/YOLOv5.md), 2020 (keyword: CSPDarknet Backbone, FPN + PAN Neck, Anchor-Based Multi-Scale Detection, Mosaic & MixUp Augmentation)
 - [YOLOv1](https://github.com/khchu93/ComputerVision/blob/main/notes/YOLOv1.md), 2016 (keyword: Unified Detection / Spatial Regression, Real-Time Detection, S×S Grid)
 
-#### State Space Models
+#### Vision State Space Models (VSSMs)
 - DAMamba, 2024 (TBD)
 - Vision Mamba, 2024 (TBD)
-- Mamba, 2023 (TBD)
 
 #### Foundation Models
 - SAM(Segment Anything Model), 2023 (TBD)
@@ -72,6 +71,9 @@
 #### Human Alignment
 - GPT-4, 2023 (TBD)
 - InstructGPT, 2022 (TBD)
+
+#### State Space Models (SSM)
+- Mamba, 2023 (TBD)
 
 #### Open Ecosystem
 - DeepSeek, 2025 (TBD)
