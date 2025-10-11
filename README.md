@@ -43,7 +43,7 @@
 
 #### Vision State Space Models (VSSMs)
 - DAMamba, 2024 (TBD)
-- Vision Mamba, 2024 (TBD)
+- [Vision Mamba](https://github.com/khchu93/ComputerVision/blob/main/notes/Vision%20Mamba.md) (Vim), 2024 (keyword: Attention free, Cross-scan, Stacked SSM blocks, Hardware-aware parallel scan, Dynamic parameterization)
 
 #### Foundation Models
 - SAM(Segment Anything Model), 2023 (TBD)
