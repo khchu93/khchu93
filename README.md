@@ -34,7 +34,7 @@
 - [Mask R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/MaskedR-CNN.md), 2017 (keyword: RoIAlign, Mask Head, FPN, RPN, NMS)
 
 #### Semantic Segmentation
-- U-Net, 2015 (TBD)
+- [U-Net](https://github.com/khchu93/ComputerVision/edit/main/notes/U-Net.md), 2015 (keyword: Symmetric “U” Shape, Skip Connections/Feature Concatenation, Precise Localization, Encoder–Decoder Structure)
 
 #### Real-time Detection
 - [YOLOv8](https://github.com/khchu93/ComputerVision/blob/main/notes/YOLOv8.md), 2023 (keyword: Anchor-Free Detection Head, Decoupled Head, C2f Backbone Module, Unified Multi-Task Framework, Varifocal + CIoU Loss)
