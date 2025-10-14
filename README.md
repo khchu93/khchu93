@@ -46,7 +46,7 @@
 - [Vision Mamba](https://github.com/khchu93/ComputerVision/blob/main/notes/Vision%20Mamba.md) (Vim), 2024 (keyword: Attention-free, Cross-scan, Stacked SSM blocks, Hardware-aware parallel scan, Dynamic parameterization)
 
 #### Foundation Models
-- [Segment Anything Model](https://github.com/khchu93/ComputerVision/blob/main/notes/SAM.md) (SAM), 2023 (TBD)
+- [Segment Anything Model](https://github.com/khchu93/ComputerVision/blob/main/notes/SAM.md) (SAM), 2023 (keyword: Promptable Segmentation Task, Data Engine, Amortized Real-Time Interactive Use, Ambiguity-Aware Model/Design)
 - CLIP, 2021 (TBD)
 
 ### LLMs
