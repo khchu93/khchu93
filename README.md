@@ -15,7 +15,7 @@
 ### Computer Vision
 
 #### Object Detection
-- [Faster R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Faster%20R-CNN.md), 2015 (keyword: end-to-end, RPN, shared feature map, Fast R-CNN detector module)
+- [Faster R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Faster%20R-CNN.md) [(Code)](https://github.com/khchu93/ComputerVision/blob/main/models/Faster_R_CNN_implementation.ipynb), 2015 (keyword: end-to-end, RPN, shared feature map, Fast R-CNN detector module)
 - [Fast R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/Fast%20R-CNN.md), 2015 (keyword: single stage, CNN only once, shared feature map, ROI pooling layer, 2 head FC layer output, NMS, region proposal)
 - [R-CNN](https://github.com/khchu93/ComputerVision/blob/main/notes/R-CNN.md) [(Code)](https://github.com/khchu93/ComputerVision/blob/main/models/rcnn_implementation.ipynb), 2014 (keyword: region proposal, selective search, Bounding box regression, NMS)
 
