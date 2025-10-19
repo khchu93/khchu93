@@ -53,7 +53,7 @@
 
 #### Representation / Embeddings
 - Seq2Seq, 2014 (TBD)
-- Word2Vec, 2013 (TBD)
+- [Word2Vec](https://github.com/khchu93/LLMs/blob/main/notes/Word2Vec.md), 2013 (keyword: Continuous Bag-of-Words (CBOW), Continuous Skip-gram, Log-linear Models, Hierarchical Softmax)
 
 #### Foundational Architecture
 - [Transformer](https://github.com/khchu93/LLMs/blob/main/notes/Transformer.md), 2017 (keyword: multi-head, self-attention, positional encoding, autoregression)
