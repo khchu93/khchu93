@@ -77,5 +77,5 @@
 
 #### Open Ecosystem
 - DeepSeek, 2025 (TBD)
-- LLaMA,2023 (TBD)
+- LLaMA, 2023 (TBD)
 
