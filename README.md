@@ -52,7 +52,7 @@
 ### LLMs
 
 #### Representation / Embeddings
-- Seq2Seq, 2014 (TBD)
+- [Seq2Seq](https://github.com/khchu93/LLMs/blob/main/notes/seq2seq.md), 2014 (keyword: Sequence-to-Sequence, LSTM, Encoder-Decoder Architecture)
 - [Word2Vec](https://github.com/khchu93/LLMs/blob/main/notes/Word2Vec.md), 2013 (keyword: Continuous Bag-of-Words (CBOW), Continuous Skip-gram, Log-linear Models, Hierarchical Softmax)
 
 #### Foundational Architecture
