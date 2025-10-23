@@ -60,7 +60,7 @@
   
 #### Pre-training Approaches
 - Understanding (Encoder/Bidirectional)
-  - BERT, 2018 (TBD)
+  - [Bidirectional Encoder Representations from Transformers](https://github.com/khchu93/LLMs/blob/main/notes/bert.md) (BERT), 2018 (keyword: Bidirectional Representations, Masked Language Model (MLM), Next Sentence Prediction (NSP), Contextual Embeddings, Token/Position/Segment Embeddings)
 - Unified (Encoder-Decoder)
   - T5, 2019 (TBD)
 - Generation (Decoder-Only/Autoregressive)
