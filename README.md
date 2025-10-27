@@ -66,7 +66,7 @@
 - Generation (Decoder-Only/Autoregressive)
   - GPT-3, 2020 (TBD)
   - GPT-2, 2019 (TBD)
-  - [GPT](https://github.com/khchu93/LLMs/blob/main/notes/gpt.md), 2018 (keywords: Two-stage training procedure, Task-aware input transformations, Auxiliary objective, Universal representation)
+  - [Generative Pre-Training](https://github.com/khchu93/LLMs/blob/main/notes/gpt.md) (GPT), 2018 (keywords: Two-stage training procedure, Task-aware input transformations, Auxiliary objective, Universal representation)
 
 #### Human Alignment
 - GPT-4, 2023 (TBD)
