@@ -1,8 +1,13 @@
-### About me 👋
+## About me 👋
 
 🎓 IT & AI Engineering - M.Eng at Polytechnique Montréal<br />
 🎓 Electrical Engineering - B.Eng at École de Technologie Supérieure <br />
 
+## 🔍 Description <br />
+A personal exploration of foundational Computer Vision Models (CV) and Large Language Models (LLMs).
+- Documented each model’s motivation, architecture, key contributions, and limitations.
+- Rebuilt the models from scratch based on academic and open-source references.
+- Analyzed and compared results to deepen understanding and share practical insights.
 
 ## Projects
 
