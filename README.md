@@ -1,4 +1,4 @@
-## About me 👋
+## 👋 About me 
 
 🎓 IT & AI Engineering - M.Eng at Polytechnique Montréal<br />
 🎓 Electrical Engineering - B.Eng at École de Technologie Supérieure <br />
@@ -9,13 +9,13 @@ A personal exploration of foundational Computer Vision Models (CV) and Large Lan
 - Rebuilt the models from scratch based on academic and open-source references.
 - Analyzed and compared results to deepen understanding and share practical insights.
 
-## Projects
+## 📺 Projects 
 
 | Tag | Name | Description
 |:---|:---|:---
 |ML|[🔥 Fire smoke detection](https://github.com/MorganPeju/inf8225_project) | Python - Forest fire smoke detection with YOLOv5 model
 
-## Learning Journey
+## 📚 Learning Journey
 
 ### Computer Vision
 
