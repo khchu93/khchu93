@@ -13,7 +13,7 @@ A personal exploration of foundational Computer Vision Models (CV) and Large Lan
 
 | Tag | Name | Description | Last modified date |
 |:---|:---|:---|:--|
-|Agent&LLM|[Daily Paper Report Workflow](https://github.com/khchu93/DailyPaperReportWorkflow/tree/main)| Prompt Chaining workflow with n8n | 12/22/2025 |
+|Agent&LLM|[Daily Paper Report Workflow](https://github.com/khchu93/DailyPaperReportWorkflow/tree/main)| Prompt-Chained LLM workflow with n8n | 12/22/2025 |
 |LLM|[Board Game Q&A Chatbot](https://github.com/khchu93/Board_game_Q_and_A) [[Demo]](https://broadgame-question-and-answer.streamlit.app/) | RAG system with GPT3.5-Turbo on Streamlit | 11/24/2025 |
 |CV|[Forest fire smoke detection](https://github.com/MorganPeju/inf8225_project) | Image detection with YOLOv5 model | N/A | 
 
