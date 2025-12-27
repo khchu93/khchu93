@@ -4,10 +4,10 @@
 🎓 Electrical Engineering - B.Eng at École de Technologie Supérieure <br />
 
 ## 🔍 Description <br />
-A personal exploration of foundational Computer Vision Models (CV) and Large Language Models (LLMs).
-- Documented each model’s motivation, architecture, key contributions, and limitations.
-- Rebuilt the models from scratch based on academic and open-source references.
-- Analyzed and compared results to deepen understanding and share practical insights.
+A collection of hands-on AI engineering projects focused on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and LLM-based workflows.
+- Designed and implemented end-to-end systems, including RAG chatbots and prompt-chaining workflows.
+- Documented system design decisions, model architectures, trade-offs, and practical limitations.
+- Emphasized real-world applicability, evaluation, and engineering best practices.
 
 ## 📺 Projects 
 
@@ -17,7 +17,10 @@ A personal exploration of foundational Computer Vision Models (CV) and Large Lan
 |LLM|[Board Game Q&A Chatbot](https://github.com/khchu93/Board_game_Q_and_A) [[Demo]](https://broadgame-question-and-answer.streamlit.app/) | RAG system with GPT3.5-Turbo on Streamlit | 2025.08 | 2025.11 |
 |CV|[Forest fire smoke detection](https://github.com/MorganPeju/inf8225_project) | Image detection with YOLOv5 model | 2022.01 | 2022.04 |
 
-```
+<!-- 
+- Rebuilt the models from scratch based on academic and open-source references.
+- Analyzed and compared results to deepen understanding and share practical insights.
+
 ## 📚 Learning Journey
 
 ### LLMs
@@ -86,4 +89,4 @@ A personal exploration of foundational Computer Vision Models (CV) and Large Lan
 #### Foundation Models
 - [Segment Anything Model](https://github.com/khchu93/ComputerVision/blob/main/notes/SAM.md) (SAM), 2023 (keyword: Promptable Segmentation Task, Data Engine, Amortized Real-Time Interactive Use, Ambiguity-Aware Model/Design)
 - CLIP, 2021 (TBD)
-```
+-->
