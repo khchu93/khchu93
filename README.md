@@ -11,12 +11,13 @@ A personal exploration of foundational Computer Vision Models (CV) and Large Lan
 
 ## 📺 Projects 
 
-| Tag | Name | Description | Last modified date |
-|:---|:---|:---|:--|
-|Agent&LLM|[Daily Paper Report Workflow](https://github.com/khchu93/DailyPaperReportWorkflow)| Prompt-Chained LLM workflow with n8n | 12/22/2025 |
-|LLM|[Board Game Q&A Chatbot](https://github.com/khchu93/Board_game_Q_and_A) [[Demo]](https://broadgame-question-and-answer.streamlit.app/) | RAG system with GPT3.5-Turbo on Streamlit | 11/24/2025 |
-|CV|[Forest fire smoke detection](https://github.com/MorganPeju/inf8225_project) | Image detection with YOLOv5 model | N/A | 
+| Tag | Name | Description | Start date | End date |
+|:---|:---|:---|:--|:--|
+|Agent&LLM|[Daily Paper Report Workflow](https://github.com/khchu93/DailyPaperReportWorkflow)| Prompt-Chained LLM workflow with n8n | 2025.12 | 2025.12 |
+|LLM|[Board Game Q&A Chatbot](https://github.com/khchu93/Board_game_Q_and_A) [[Demo]](https://broadgame-question-and-answer.streamlit.app/) | RAG system with GPT3.5-Turbo on Streamlit | 2025.08 | 2025.11 |
+|CV|[Forest fire smoke detection](https://github.com/MorganPeju/inf8225_project) | Image detection with YOLOv5 model | 2022.01 | 2022.04 |
 
+```
 ## 📚 Learning Journey
 
 ### LLMs
@@ -85,3 +86,4 @@ A personal exploration of foundational Computer Vision Models (CV) and Large Lan
 #### Foundation Models
 - [Segment Anything Model](https://github.com/khchu93/ComputerVision/blob/main/notes/SAM.md) (SAM), 2023 (keyword: Promptable Segmentation Task, Data Engine, Amortized Real-Time Interactive Use, Ambiguity-Aware Model/Design)
 - CLIP, 2021 (TBD)
+```
