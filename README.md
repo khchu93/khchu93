@@ -14,7 +14,7 @@ A collection of hands-on AI engineering projects focused on Large Language Model
 | Tag | Name | Description | Start date | End date |
 |:---|:---|:---|:--|:--|
 |Agent&LLM|[Daily Paper Report Workflow](https://github.com/khchu93/DailyPaperReportWorkflow)| Prompt-Chained LLM workflow with n8n | 2025.12 | 2026.02 |
-|LLM|[Board Game Q&A Chatbot](https://github.com/khchu93/Board_game_Q_and_A) [[Demo]](https://broadgame-question-and-answer.streamlit.app/) | RAG system with GPT3.5-Turbo on Streamlit | 2025.08 | 2025.11 |
+|LLM|[Board Game Q&A Chatbot](https://github.com/khchu93/Board_game_Q_and_A) [[Demo]](https://broadgame-question-and-answer.streamlit.app/) | RAG system with GPT3.5-Turbo on Streamlit | 2025.06 | 2025.11 |
 |CV|[Forest fire smoke detection](https://github.com/MorganPeju/inf8225_project) | Image detection with YOLOv5 model | 2022.01 | 2022.04 |
 
 <!-- 
